@@ -1,4 +1,3 @@
-const {argv} = require("node:process")
+const name = Number("Abc")
 
-
-console.log(argv.length)
+console.log(name)
