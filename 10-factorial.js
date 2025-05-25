@@ -15,4 +15,6 @@ let first = Number(argv[2])
 
 if (first){
     console.log(factorial(first))
+}else{
+    console.log(1)
 }
